@@ -1,16 +1,20 @@
-## Hi there 👋
+------------------------------------------------------------
+GitHub Profile
+------------------------------------------------------------
 
-<!--
-**dipesh-panchal/dipesh-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Summary:
+    Personal GitHub account used for source control.
 
-Here are some ideas to get you started:
+Details:
+    Code is written for work and personal use.
+    Languages and tools depend on the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repositories:
+    - Experiments
+    - Utilities
+    - Work in progress
+
+Notes:
+    Some projects may be incomplete or unmaintained.
+
+------------------------------------------------------------
