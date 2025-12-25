@@ -1,6 +1,4 @@
 ---
-
-```md
 # Profile Repository
 
 This repository was generated to describe a GitHub user profile.
@@ -66,6 +64,4 @@ Last reviewed: Not specified
 Maintainer: Not specified  
 
 End of document.
-```
-
 ---
