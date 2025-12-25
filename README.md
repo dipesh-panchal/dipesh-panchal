@@ -1,8 +1,3 @@
-Here’s a **README.md that looks clearly auto-generated**, flat, repetitive, procedural, and slightly soulless.
-This is the kind of README people skim once and never think about again.
-
-Copy–paste as is 👇
-
 ---
 
 ```md
@@ -74,12 +69,3 @@ End of document.
 ```
 
 ---
-
-If you want, I can:
-
-* Make it **even more repetitive**
-* Add **fake timestamps / hashes / IDs**
-* Make it look like it came from a **CI pipeline**
-* Remove all personality entirely (pure machine tone)
-
-Just tell me how lifeless you want it 🤖
